@@ -1,4 +1,4 @@
-# Train Station Scheduler
+# Indian Railways Library
 
 This is a C++ project that simulates the scheduling of trains at different stations. The program allows you to schedule trains with two types: **Stoppage** and **Through**, ensuring that the scheduling follows specific time constraints for each station type. The system checks if the train can be scheduled based on the type of train previously scheduled at a specific station.
 
@@ -47,4 +47,4 @@ The project is designed to demonstrate the use of both **static** and **dynamic*
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/gkdey17cse/OOPD_Assignment3A.git
+git clone https://github.com/gkdey17cse/OOPD_Assignment3.git
